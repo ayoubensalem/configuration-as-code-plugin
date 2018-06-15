@@ -6,7 +6,7 @@ import org.jenkinsci.plugins.casc.BaseConfigurator;
 import org.jenkinsci.plugins.casc.ConfiguratorException;
 import org.jenkinsci.plugins.casc.model.CNode;
 import org.jenkinsci.plugins.casc.model.Mapping;
-import org.kohsuke.accmod.restrictions.*;
+import org.kohsuke.accmod.restrictions.NoExternalUse;
 import org.kohsuke.accmod.Restricted;
 
 import javax.annotation.CheckForNull;
