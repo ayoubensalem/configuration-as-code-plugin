@@ -176,7 +176,9 @@ If all those 4 are present, Configuration-as-Code will try to gather initial sec
 
 **TODO** provide a dockerfile to 'build' this documentation from specified jenkins-core release and plugins.
 
-## Plugin Installation in .yml (BETA)
+## Plugin Installation in .yml
+
+Status: BETA
 
 We currently do support plugin installation but will remain in `beta` for the forseeable feature. Generally
 we recommend that you package your plugins with your Jenkins distribution as plugin installation often requires a
